@@ -1,7 +1,7 @@
 # Composepedia
 <a href="https://www.jetpackcompose.pro/"><img alt="Version" src="https://badgen.net/static/Version/1.0.0/blue"/></a>
 
-Proyecto por y para la comunidad donde intentamos ser la mayor base de datos _open source_ que te permita utilizar y entender cada uno de los componentes de _Jetpack Compose_.
+Proyecto por y para la comunidad donde intentamos ser la mayor base de datos _open source_ qué te permita utilizar y entender cada uno de los componentes de _Jetpack Compose_.
 
 ## 🌐 Web
 
@@ -29,7 +29,7 @@ El proyecto está hecho con Astro y nuestra estructura actual es:
 
 ## 🛠 Colabora
 
-Actualmente estamos en una fase muy inicial y todo ayuda se agradece. Para colaborar es muy sencillo. Lo primero que debes hacer es ir a las [issues](https://github.com/ArisGuimera/JetpackComposePro/issues) y asignarte la que te interese desarrollar. También dispones de un [**Template de componentes**](https://github.com/ArisGuimera/JetpackComposePro/blob/master/src/collaborations/template.mdx) para seguir el patrón de la web y que te sea lo más sencillo posible.
+Actualmente estamos en una fase muy inicial y todo ayuda se agradece. Para colaborar es muy sencillo. Lo primero qué debes hacer es ir a las [issues](https://github.com/ArisGuimera/JetpackComposePro/issues) y asignarte la qué te interese desarrollar. También dispones de un [**Template de componentes**](https://github.com/ArisGuimera/JetpackComposePro/blob/master/src/collaborations/template.mdx) para seguir el patrón de la web y qué te sea lo más sencillo posible.
 
 ### Información necesaria
 
